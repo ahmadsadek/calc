@@ -1,0 +1,1 @@
+Check adding of folder and its content
